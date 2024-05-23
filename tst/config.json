@@ -1,0 +1,5 @@
+{
+    "position": start_number,
+    "token": "your_token",
+    "stop_number": last_number
+}
